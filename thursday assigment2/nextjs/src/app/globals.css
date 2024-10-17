@@ -1,0 +1,65 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  height: 100dvh;
+}
+header{
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+  min-width:1000px;
+  height:auto;
+  background-color:lawngreen;
+  color: palegreen;
+  padding:2rem;
+
+}
+header h1{
+  font-size: 5rem;
+}
+header ul{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap:1rem;
+}
+footer{
+  min-width: 1000px;
+  height: 40px;
+  background-color: blueviolet;
+  position:fixed;
+  bottom:0cm;
+}
+hero{
+  min-width: 900px;
+  height:200px;
+  margin-top: 2rem;
+  background-color:black;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
